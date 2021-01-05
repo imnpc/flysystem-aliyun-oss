@@ -26,7 +26,7 @@
 ## 安装
 
 ```shell
-$ composer require calchen/flysystem-aliyun-oss
+$ composer require imnpc/flysystem-aliyun-oss
 ```
 
 ### Laravel
