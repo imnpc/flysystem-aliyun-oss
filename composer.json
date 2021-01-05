@@ -1,5 +1,5 @@
 {
-    "name": "calchen/flysystem-aliyun-oss",
+    "name": "imnpc/flysystem-aliyun-oss",
     "description": "用于阿里云对象存储（OSS）的 Flysystem Adapter（Flysystem Adapter for Aliyun OSS）",
     "keywords": [
         "laravel",
